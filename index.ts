@@ -1,3 +1,4 @@
+#! usr/bin/ env node
 import inquirer from 'inquirer';
 type TodoItem = { task: string; completed: boolean };
 
